@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+}
+
+.list {
+    padding-top: 40px;
+}
+
+.link {
+    text-decoration: none;
+    color: black
+}
+
+.post {
+    padding: 16px;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.post:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0 2px 5px -1px, rgba(0, 0, 0, 0.3) 0 1px 3px -1px;
+}

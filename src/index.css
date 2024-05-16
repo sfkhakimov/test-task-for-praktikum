@@ -1,1 +1,14 @@
 @import "normalize.css";
+
+@font-face {
+    font-family: "Roboto";
+    src: url("./assets/Roboto-Regular.ttf") format('truetype');
+}
+
+html, body, #root {
+    height: 100%;
+}
+
+body {
+    font-family: "Roboto", 'sans-serif';
+}

@@ -1,0 +1,11 @@
+.main {
+    margin: 0 auto;
+    max-width: 1260px;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    text-align: center;
+}

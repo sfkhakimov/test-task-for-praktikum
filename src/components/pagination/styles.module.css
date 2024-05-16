@@ -1,0 +1,13 @@
+.root {
+    display: flex;
+}
+
+.page {
+    padding: 0 8px;
+    cursor: pointer;
+}
+
+.activePage {
+    color: blue;
+    text-decoration: underline;
+}
